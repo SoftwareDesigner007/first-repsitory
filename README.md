@@ -17,5 +17,5 @@ Working non-stop lowers performance. Follow methods like 90/20 rule (90 minutes 
 5. Continuously Reflect and Improve
 End your day with a quick review: What went well? What needs improvement? This promotes self-awareness and helps you refine your workflow over time.
 
-✅ Final Thought:
+ Final Thought:
 “Productivity is not about doing more — it’s about doing what truly matters with purpose, focus, and consistency.”
